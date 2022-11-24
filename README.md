@@ -26,6 +26,7 @@
 
 # 1. Создал репозиторий на GitHub
 
-## Ссылка на репозиторий *https://github.com/olegPip/finalproject*
+## Ссылка на репозиторий 
 
 # 2. Нарисовал блок-схему алгоритма вставил в фото и скинул ссылку на блок схему и ссылка на фото. 
+![Diagram.jpg](https://github.com/olegPip/finalprojekt/blob/master/block%20diagram/Diagram.jpg)
